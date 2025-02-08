@@ -1,1 +1,1 @@
-# IMAGE-GENERATOR-USING-DALL-E-GENERATIVE-AI-replit
+You can choose the model according to your preferences
